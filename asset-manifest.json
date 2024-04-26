@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reeganv13/Amrutham_React_Project.git/static/css/main.f88f35f4.css",
+    "main.js": "/reeganv13/Amrutham_React_Project.git/static/js/main.05a1ee7c.js",
+    "static/js/453.5e560239.chunk.js": "/reeganv13/Amrutham_React_Project.git/static/js/453.5e560239.chunk.js",
+    "index.html": "/reeganv13/Amrutham_React_Project.git/index.html",
+    "main.f88f35f4.css.map": "/reeganv13/Amrutham_React_Project.git/static/css/main.f88f35f4.css.map",
+    "main.05a1ee7c.js.map": "/reeganv13/Amrutham_React_Project.git/static/js/main.05a1ee7c.js.map",
+    "453.5e560239.chunk.js.map": "/reeganv13/Amrutham_React_Project.git/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88f35f4.css",
+    "static/js/main.05a1ee7c.js"
+  ]
+}
