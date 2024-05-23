@@ -2,9 +2,9 @@ import React from "react"
 export default function Header(){
    return( 
     <div className="container1">
-    <img className="Header-Image" src="Rectangle 3464760.png"  alt="image1" />
+    <img className="Header-Image" src={`${process.env.PUBLIC_URL}/Rectangle 3464760.png`}  alt="image1" />
     
-    <img className="Mobile-Header-Image" src="Rectangle 3464762 (1).png" />
+    <img className="Mobile-Header-Image" src={`${process.env.PUBLIC_URL}/Rectangle 3464762 (1).png`} />
     <div className="Mobile-Header"></div>
    <header className="App-header">
     

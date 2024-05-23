@@ -11,7 +11,7 @@ export default function FourthPage(){
                 <p>[ Meaning: The Goal of Ayurveda is to maintain the health of a healthy person and to cure the disease of a diseased person. ]</p>
             </div>
             <div className="Fbox2">
-                <img src="Rectangle 4144.png" />
+                <img src={`${process.env.PUBLIC_URL}/Rectangle 4144.png`} />
             </div>
             <div className="Fbox3">
                 <h4>precise diagnosis</h4>
@@ -24,14 +24,14 @@ export default function FourthPage(){
             <p>Ayurvedic treatments are devoid of chemicals, and are based completely on natural herbs </p>
           </div>
           <div className="Fbox5">
-            <img src="Rectangle 4146.png"/>
+            <img src={`${process.env.PUBLIC_URL}/Rectangle 4146.png`}/>
           </div>
           <div className="Fbox6">
             <h4>Individual Treatment</h4>
             <p>all Treatments are personalized based on a person's unique constitution and health concerns.</p>
           </div>
           <div className="Fbox7">
-            <img src="Rectangle 4148 (1).png"/>
+            <img src={`${process.env.PUBLIC_URL}/Rectangle 4148 (1).png`}/>
           </div>
           </div>
           </div>

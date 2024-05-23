@@ -9,12 +9,12 @@ export default function NinethPage(){
                 <h3>Get a Diet & Lifestyle Consultation With Ayurvedic Experts Across The Globe </h3>
                 <h2>Get the App now</h2>
                 <div className="Googleplay">
-                    <img  src="image 67.png"/>
-                    <img className="image2" src="image 68.png" />
+                    <img  src={`${process.env.PUBLIC_URL}/image 67.png`}/>
+                    <img className="image2" src={`${process.env.PUBLIC_URL}/image 68.png`} />
                 </div>
                 </div>
                 <div className="finalBox2">
-                    <img src="Group 39489.png" />
+                    <img src={`${process.env.PUBLIC_URL}/Group 39489.png`} />
                 
                 </div>
                 
@@ -27,7 +27,7 @@ export default function NinethPage(){
                  <br></br>  <br></br>+91 9713171999</h6>
                    
                    <div>
-                    <img src="Frame 1000006082.png"/>
+                    <img src={`${process.env.PUBLIC_URL}/Frame 1000006082.png`}/>
                    </div>
                 </div>
                 <div>
